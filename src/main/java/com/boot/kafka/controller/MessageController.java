@@ -1,4 +1,4 @@
-package com.boot.kafka;
+package com.boot.kafka.controller;
 
 import com.boot.kafka.model.MessageRequest;
 import lombok.RequiredArgsConstructor;
